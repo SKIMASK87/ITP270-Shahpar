@@ -1,0 +1,186 @@
+    1  apt-get update
+    2  apt-get upgrade
+    3  sudo apt-get upgrade
+    4  sudo apt-get update
+    5  exit
+    6  systemctl start postgresql
+    7  msfdb init
+    8  sudo msfdb init
+    9  armitage
+   10  apt-get update
+   11  sudo apt-get update
+   12  sudo apt-get upgrade
+   13  sudo apt install armitage\narmitage
+   14  apt-get update --fix-missing
+   15  clear
+   16  armitage
+   17  ifconfig
+   18  mcrypt -list
+   19  clear
+   20  sudo apt-get install leafpad
+   21  clear
+   22  sudo setoolkit
+   23  ifconfig
+   24  sudo su
+   25  apt-get update
+   26  apt-get upgrade
+   27  sudo
+   28  sudo su
+   29  clear
+   30  apt-get update
+   31  apt-get upgrade
+   32  sudo
+   33  sudo su
+   34  cd ~ 
+   35  mv .zsh_history .zsh_history_bad
+   36  strings -eS .zsh_history_bad > .zsh_history
+   37  fc -R .zsh_history
+   38  cd ~ 
+   39  mv .zsh_history .zsh_history_old
+   40  strings .zsh_history_old > .zsh_history
+   41  fc -R .zsh_history
+   42  clear
+   43  cd movies
+   44  cd Movies
+   45  ls
+   46  cd
+   47  cd movies
+   48  clear
+   49  ls
+   50  cd ITP270
+   51  LS
+   52  ls
+   53  nano lecture3.txt
+   54  git commit -m "Adding the lecture3 file with folder structure"
+   55  git push
+   56  lecture3.txt
+   57  cd lecture3.txt
+   58  tree
+   59  lecture3.txt
+   60  ls
+   61  lecture3.txt
+   62  cd lecture3.txt
+   63  ls
+   64  cd
+   65  lecture3.txt
+   66  cd lecture3.txt
+   67  clear
+   68  ifconfig
+   69  cd
+   70  ls -a
+   71  ls -t
+   72  cd
+   73  clear
+   74  pwd
+   75  ls
+   76  cd ITP270Lecture
+   77  ls
+   78  git status
+   79  cd ITP270
+   80  ls
+   81  clear
+   82  cd ../ITP270
+   83  ls
+   84  pwd
+   85  cd ..
+   86  cd ITP270
+   87  ls
+   88  clear
+   89  ls
+   90  cd ..
+   91  pwd
+   92  git clone                                                  \n
+   93  git clone https://github.com/SKIMASK87/ITP270.git
+   94  cd ITP270
+   95  ls
+   96  git push
+   97  ls
+   98  clear
+   99  ls
+  100  git push -u origin master
+  101  cd..
+  102  cd .
+  103  cd ..
+  104  clear
+  105  ls
+  106  mv ITP270 ITP270_local
+  107  ls
+  108  git clone https://github.com/SKIMASK87/ITP270.git
+  109  clearrrrrrrrrrrr
+  110  clear
+  111  mv ITP270_local/lecture3.txt ITP270/ 
+  112  cd ITP270
+  113  git push
+  114  ls -al
+  115  git status
+  116  git add -A
+  117  git commit -m "x"
+  118  git status
+  119  git push
+  120  History > sat.txt
+  121  history > sat.txt
+  122  cd
+  123  ls
+  124  clear
+  125  git clone https://github.com/SKIMASK87/ITP270-Shahpar.git
+  126  ls
+  127  cd ITP270-Shahpar
+  128  ls
+  129  cd geography
+  130  ls
+  131  cd geography
+  132  git clone https://github.com/SKIMASK87/ITP270-Shahpar.git
+  133  cd geography
+  134  cd
+  135  pwd
+  136  ls
+  137  cd ITP270-Shahpar
+  138  LS
+  139  ls
+  140  cd geography
+  141  clear
+  142  ls
+  143  echo "Hello"
+  144  echo "Hello" > hello.txt
+  145  ls
+  146  cat hello.txt
+  147  cat island.txt
+  148  cat continents.txt
+  149  cat islands.txt
+  150  cat oceans.txt > continents.txt
+  151  cat continents.txt
+  152  cat oceans.txt
+  153  ls
+  154  cat oceans.txt
+  155  cat continents.txt
+  156  ls
+  157  cat glaciers.txt >> river.txt
+  158  cat glaciers.txt
+  159  cat glaciers.txt >> rivers.txt
+  160  cat glaciers.txt
+  161  cat rivers.txt
+  162  cat lakes.txt
+  163  cat < lakes.txt
+  164  ls
+  165  cat volcanoes | wc
+  166  cat volcanoes.txt | wc
+  167  cat volcanoes.txt | wc | cat > volcanoes_count.txt
+  168  cat volcanoes_count.txt
+  169  ls
+  170  cat volcanoes_count.txt
+  171  ls
+  172  cat river.txt
+  173  cat rivers.txt
+  174  ls
+  175  cat forests.txt
+  176  ls
+  177  cat lakes.txt
+  178  sort lakes.txt
+  179  cat lakes.txt | sort > sorted-lakes.txt
+  180  cat sorted-lakes.txt
+  181  sort deserts.txt
+  182  sort deserts.txt | uniq
+  183  history > feb1class
+  184  cd Desktop
+  185  cd desktop
+  186  cd Desktop

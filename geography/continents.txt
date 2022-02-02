@@ -1,7 +1,5 @@
-Africa
-Antarctica
-Asia
-Australia
-Europe
-North America
-South America
+Arctic Ocean
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Southern Ocean
